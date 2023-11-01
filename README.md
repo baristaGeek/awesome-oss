@@ -106,6 +106,8 @@ editing of user keystrokes<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/EsperoTech/yaade)
 - [Revert](https://revert.dev/) - An open source unified API to build B2B product integrations<br/>
 [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/revertinc/revert)
+- [Watermelon](https://www.watermelontools.com/) - Open source copilot for code review<br/>
+[![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/watermelontools/watermelon)
 
 ### Email
 
